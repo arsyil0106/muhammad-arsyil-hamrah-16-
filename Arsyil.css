@@ -1,0 +1,19 @@
+*{
+    font font-family: 'tahoma';
+  }
+
+  .artikel{
+    color: green;
+  }
+
+  .tanggal{
+    color:red;
+  }
+
+  h3{
+    font-size:12px;
+  }
+
+  .credit{
+    font-weight:bold;
+  }
